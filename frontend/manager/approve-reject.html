@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Approve / Reject Leave Requests</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+    <nav class="navbar navbar-dark bg-dark mb-4">
+        <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1">Manager - Approve / Reject Leaves</span>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="mb-3">
+            <label for="apiUrl" class="form-label">API Base URL</label>
+            <input type="text" id="apiUrl" class="form-control"
+                   value="https://localhost:5001/api/manager">
+            <div class="form-text">
+                Change the port to match your running Web API (from Swagger).
+            </div>
+        </div>
+
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <h3 class="mb-0">Pending Leave Requests</h3>
+            <button class="btn btn-primary" onclick="loadPending()">Refresh</button>
+        </div>
+
+        <div id="message" class="mb-3"></div>
+
+        <table class="table table-striped" id="pendingTable">
+            <thead class="table-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Employee Id</th>
+                    <th>Manager Id</th>
+                    <th>Type</th>
+                    <th>Start</th>
+                    <th>End</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        function getBaseUrl() {
+            return document.getElementById("apiUrl").value;
+        }
+
+        function showMessage(text, isError) {
+            var div = document.getElementById("message");
+            if (!text) {
+                div.innerHTML = "";
+                return;
+            }
+            var cls = isError ? "alert alert-danger" : "alert alert-success";
+            div.className = cls;
+            div.innerText = text;
+        }
+
+        function loadPending() {
+            showMessage("", false);
+
+            var url = getBaseUrl() + "/pendingrequests";
+
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error("Error loading pending requests");
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    var tbody = document.querySelector("#pendingTable tbody");
+                    tbody.innerHTML = "";
+
+                    if (!data || data.length === 0) {
+                        showMessage("No pending requests found.", false);
+                        return;
+                    }
+
+                    data.forEach(function (req) {
+                        var row = document.createElement("tr");
+
+                        row.innerHTML =
+                            "<td>" + req.id + "</td>" +
+                            "<td>" + req.employeeId + "</td>" +
+                            "<td>" + req.managerId + "</td>" +
+                            "<td>" + (req.leaveType || "") + "</td>" +
+                            "<td>" + (req.startDate || "") + "</td>" +
+                            "<td>" + (req.endDate || "") + "</td>" +
+                            "<td>" + (req.status || "") + "</td>" +
+                            "<td>" +
+                            "<button class='btn btn-success btn-sm me-2' onclick='approve(" + req.id + ")'>Approve</button>" +
+                            "<button class='btn btn-danger btn-sm' onclick='reject(" + req.id + ")'>Reject</button>" +
+                            "</td>";
+
+                        tbody.appendChild(row);
+                    });
+                })
+                .catch(error => {
+                    showMessage(error.message, true);
+                });
+        }
+
+        function approve(id) {
+            var url = getBaseUrl() + "/approve/" + id;
+
+            fetch(url, {
+                method: "PUT"
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error("Error approving request");
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    showMessage("Request " + id + " approved.", false);
+                    loadPending();
+                })
+                .catch(error => {
+                    showMessage(error.message, true);
+                });
+        }
+
+        function reject(id) {
+            var url = getBaseUrl() + "/reject/" + id;
+
+            fetch(url, {
+                method: "PUT"
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error("Error rejecting request");
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    showMessage("Request " + id + " rejected.", false);
+                    loadPending();
+                })
+                .catch(error => {
+                    showMessage(error.message, true);
+                });
+        }
+
+        window.onload = loadPending;
+    </script>
+</body>
+</html>
