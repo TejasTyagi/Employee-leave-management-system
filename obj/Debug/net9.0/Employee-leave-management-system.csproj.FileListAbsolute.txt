@@ -16,3 +16,11 @@ C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\E
 C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.sourcelink.json
+C:\PROG30000\Assignments\Group Project\Employee-leave-management-system\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.csproj.AssemblyReference.cache
+C:\PROG30000\Assignments\Group Project\Employee-leave-management-system\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROG30000\Assignments\Group Project\Employee-leave-management-system\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.AssemblyInfoInputs.cache
+C:\PROG30000\Assignments\Group Project\Employee-leave-management-system\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.AssemblyInfo.cs
+C:\PROG30000\Assignments\Group Project\Employee-leave-management-system\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.csproj.CoreCompileInputs.cache
+C:\PROG30000\Assignments\Group Project\Employee-leave-management-system\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.MvcApplicationPartsAssemblyInfo.cs
+C:\PROG30000\Assignments\Group Project\Employee-leave-management-system\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.MvcApplicationPartsAssemblyInfo.cache
+C:\PROG30000\Assignments\Group Project\Employee-leave-management-system\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.sourcelink.json
