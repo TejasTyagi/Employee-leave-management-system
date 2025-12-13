@@ -7,3 +7,12 @@ C:\Users\Shaymaa\Employee-leave-management-system\obj\Debug\net9.0\Employee-leav
 C:\Users\Shaymaa\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Shaymaa\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Shaymaa\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.sourcelink.json
+C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.csproj.AssemblyReference.cache
+C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.AssemblyInfoInputs.cache
+C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.AssemblyInfo.cs
+C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.csproj.CoreCompileInputs.cache
+C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NBosc\OneDrive\Desktop\School\Year 3\PROG3000\Project Assignmnet\repo\Employee-leave-management-system\obj\Debug\net9.0\Employee-leave-management-system.sourcelink.json

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shaymaa\\Employee-leave-management-system\\Employee-leave-management-system.csproj": {}
+    "C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\Employee-leave-management-system.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shaymaa\\Employee-leave-management-system\\Employee-leave-management-system.csproj": {
+    "C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\Employee-leave-management-system.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shaymaa\\Employee-leave-management-system\\Employee-leave-management-system.csproj",
+        "projectUniqueName": "C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\Employee-leave-management-system.csproj",
         "projectName": "Employee-leave-management-system",
-        "projectPath": "C:\\Users\\Shaymaa\\Employee-leave-management-system\\Employee-leave-management-system.csproj",
-        "packagesPath": "C:\\Users\\Shaymaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shaymaa\\Employee-leave-management-system\\obj\\",
+        "projectPath": "C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\Employee-leave-management-system.csproj",
+        "packagesPath": "C:\\Users\\NBosc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Shaymaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NBosc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -52,6 +52,20 @@
           "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.0, )"
             }
