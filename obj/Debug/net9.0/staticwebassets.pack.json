@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html",
+      "PackagePath": "staticwebassets\\admin\\manage-employees.html"
+    },
+    {
+      "Id": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\reports.html",
+      "PackagePath": "staticwebassets\\admin\\reports.html"
+    },
+    {
+      "Id": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html",
+      "PackagePath": "staticwebassets\\employee\\apply-leave.html"
+    },
+    {
+      "Id": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html",
+      "PackagePath": "staticwebassets\\employee\\leave-status.html"
+    },
+    {
+      "Id": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html",
+      "PackagePath": "staticwebassets\\manager\\approve-reject.html"
+    },
+    {
+      "Id": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html",
+      "PackagePath": "staticwebassets\\manager\\team-summary.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Employee-leave-management-system.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Employee-leave-management-system.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Employee-leave-management-system.props",
+      "PackagePath": "build\\Employee-leave-management-system.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Employee-leave-management-system.props",
+      "PackagePath": "buildMultiTargeting\\Employee-leave-management-system.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Employee-leave-management-system.props",
+      "PackagePath": "buildTransitive\\Employee-leave-management-system.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

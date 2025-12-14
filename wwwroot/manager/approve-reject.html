@@ -7,6 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="bg-light">
+
     <nav class="navbar navbar-dark bg-dark mb-4">
         <div class="container-fluid">
             <span class="navbar-brand mb-0 h1">Manager - Approve / Reject Leaves</span>
@@ -14,14 +15,6 @@
     </nav>
 
     <div class="container">
-        <div class="mb-3">
-            <label for="apiUrl" class="form-label">API Base URL</label>
-            <input type="text" id="apiUrl" class="form-control"
-                   value="  ">
-            <div class="form-text">
-                Change the port to match your running Web API (from Swagger).
-            </div>
-        </div>
 
         <div class="d-flex justify-content-between align-items-center mb-3">
             <h3 class="mb-0">Pending Leave Requests</h3>
@@ -44,40 +37,37 @@
                 </tr>
             </thead>
             <tbody>
+                <!-- rows added dynamically -->
             </tbody>
         </table>
+
     </div>
 
     <script>
-        function getBaseUrl() {
-            return document.getElementById("apiUrl").value;
-        }
+        const API_BASE = "http://localhost:5180/api/manager";
 
         function showMessage(text, isError) {
-            var div = document.getElementById("message");
+            const div = document.getElementById("message");
             if (!text) {
                 div.innerHTML = "";
                 return;
             }
-            var cls = isError ? "alert alert-danger" : "alert alert-success";
-            div.className = cls;
+            div.className = isError ? "alert alert-danger" : "alert alert-success";
             div.innerText = text;
         }
 
         function loadPending() {
             showMessage("", false);
 
-            var url = getBaseUrl() + "/pendingrequests";
-
-            fetch(url)
-                .then(response => {
-                    if (!response.ok) {
+            fetch(`${API_BASE}/pendingrequests`)
+                .then(res => {
+                    if (!res.ok) {
                         throw new Error("Error loading pending requests");
                     }
-                    return response.json();
+                    return res.json();
                 })
                 .then(data => {
-                    var tbody = document.querySelector("#pendingTable tbody");
+                    const tbody = document.querySelector("#pendingTable tbody");
                     tbody.innerHTML = "";
 
                     if (!data || data.length === 0) {
@@ -85,73 +75,54 @@
                         return;
                     }
 
-                    data.forEach(function (req) {
-                        var row = document.createElement("tr");
-
-                        row.innerHTML =
-                            "<td>" + req.id + "</td>" +
-                            "<td>" + req.employeeId + "</td>" +
-                            "<td>" + req.managerId + "</td>" +
-                            "<td>" + (req.leaveType || "") + "</td>" +
-                            "<td>" + (req.startDate || "") + "</td>" +
-                            "<td>" + (req.endDate || "") + "</td>" +
-                            "<td>" + (req.status || "") + "</td>" +
-                            "<td>" +
-                            "<button class='btn btn-success btn-sm me-2' onclick='approve(" + req.id + ")'>Approve</button>" +
-                            "<button class='btn btn-danger btn-sm' onclick='reject(" + req.id + ")'>Reject</button>" +
-                            "</td>";
-
-                        tbody.appendChild(row);
+                    data.forEach(req => {
+                        tbody.innerHTML += `
+                            <tr>
+                                <td>${req.id}</td>
+                                <td>${req.employeeId}</td>
+                                <td>${req.managerId}</td>
+                                <td>${req.leaveType ?? ""}</td>
+                                <td>${req.startDate ?? ""}</td>
+                                <td>${req.endDate ?? ""}</td>
+                                <td>${req.status ?? ""}</td>
+                                <td>
+                                    <button class="btn btn-success btn-sm me-2"
+                                        onclick="approve(${req.id})">Approve</button>
+                                    <button class="btn btn-danger btn-sm"
+                                        onclick="reject(${req.id})">Reject</button>
+                                </td>
+                            </tr>`;
                     });
                 })
-                .catch(error => {
-                    showMessage(error.message, true);
-                });
+                .catch(err => showMessage(err.message, true));
         }
 
         function approve(id) {
-            var url = getBaseUrl() + "/approve/" + id;
-
-            fetch(url, {
-                method: "PUT"
-            })
-                .then(response => {
-                    if (!response.ok) {
+            fetch(`${API_BASE}/approve/${id}`, { method: "PUT" })
+                .then(res => {
+                    if (!res.ok) {
                         throw new Error("Error approving request");
                     }
-                    return response.json();
-                })
-                .then(data => {
-                    showMessage("Request " + id + " approved.", false);
+                    showMessage(`Request ${id} approved.`, false);
                     loadPending();
                 })
-                .catch(error => {
-                    showMessage(error.message, true);
-                });
+                .catch(err => showMessage(err.message, true));
         }
 
         function reject(id) {
-            var url = getBaseUrl() + "/reject/" + id;
-
-            fetch(url, {
-                method: "PUT"
-            })
-                .then(response => {
-                    if (!response.ok) {
+            fetch(`${API_BASE}/reject/${id}`, { method: "PUT" })
+                .then(res => {
+                    if (!res.ok) {
                         throw new Error("Error rejecting request");
                     }
-                    return response.json();
-                })
-                .then(data => {
-                    showMessage("Request " + id + " rejected.", false);
+                    showMessage(`Request ${id} rejected.`, false);
                     loadPending();
                 })
-                .catch(error => {
-                    showMessage(error.message, true);
-                });
+                .catch(err => showMessage(err.message, true));
         }
 
         window.onload = loadPending;
     </script>
+
 </body>
 </html>

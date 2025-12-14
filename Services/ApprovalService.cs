@@ -1,4 +1,4 @@
-// Author: Tejas Tyagi
+// Tejas Tyagi
 // Description: Business logic for manager actions such as getting pending leave requests, approving/rejecting requests, and viewing team leave summary.
 using Employee_leave_management_system.Data;
 using Employee_leave_management_system.Models;

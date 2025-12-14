@@ -1,1 +1,2402 @@
-{"Version":1,"Hash":"30fEQV2yNB09IQ4KplOG6+u7o/2MdlQxUNOt714YMws=","Source":"Employee-leave-management-system","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[{"Name":"Employee-leave-management-system\\wwwroot","Source":"Employee-leave-management-system","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\","BasePath":"/","Pattern":"**"}],"Assets":[{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\8rel002q3o-{0}-5ipweew5fc-5ipweew5fc.gz","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\","BasePath":"/","RelativePath":"admin/manage-employees#[.{fingerprint=5ipweew5fc}]?.html.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"5ipweew5fc","Integrity":"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html","FileLength":0,"LastWriteTime":"2025-12-14T07:31:09+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\9rfq0cx61d-{0}-5ipweew5fc-5ipweew5fc.gz","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\","BasePath":"/","RelativePath":"admin/reports#[.{fingerprint=5ipweew5fc}]?.html.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\admin\\reports.html","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"5ipweew5fc","Integrity":"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\admin\\reports.html","FileLength":0,"LastWriteTime":"2025-12-14T07:31:09+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\fbquuofxsw-{0}-q3t6nk7rrp-q3t6nk7rrp.gz","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\","BasePath":"/","RelativePath":"manager/team-summary#[.{fingerprint=q3t6nk7rrp}]?.html.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"rkaub9q2og","Integrity":"9Z+0qEX1XgesPLKMQEv6S1fw9CyNGK3LiTM/ahffjIA=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html","FileLength":1310,"LastWriteTime":"2025-12-14T07:31:09+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\kvh6ohz3fj-{0}-otsy6u2zam-otsy6u2zam.gz","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\","BasePath":"/","RelativePath":"employee/apply-leave#[.{fingerprint=otsy6u2zam}]?.html.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"lkufmba7wf","Integrity":"e3WFUPRIiP3ZoJe1sHFovSMcg4SyTyw7PPQLzzk28fA=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html","FileLength":1385,"LastWriteTime":"2025-12-14T07:31:09+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\tavm4mceku-{0}-r2n2he461v-r2n2he461v.gz","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\","BasePath":"/","RelativePath":"employee/leave-status#[.{fingerprint=r2n2he461v}]?.html.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"152e5qfxtu","Integrity":"Vf/LGwRyTPl6JtOxfZCR1R9pMdMR2h5Hnox8ypmLW24=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html","FileLength":1462,"LastWriteTime":"2025-12-14T07:31:09+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\u7fzhgji9r-{0}-w8kvexqufe-w8kvexqufe.gz","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\","BasePath":"/","RelativePath":"manager/approve-reject#[.{fingerprint=w8kvexqufe}]?.html.gz","AssetKind":"All","AssetMode":"All","AssetRole":"Alternative","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html","AssetTraitName":"Content-Encoding","AssetTraitValue":"gzip","Fingerprint":"7m6i8kbq1z","Integrity":"AQZ8EOBjItqUUXAqUCvfqGJ25LQk+gHK/yPVqsOZyoc=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html","FileLength":1379,"LastWriteTime":"2025-12-14T07:31:09+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\","BasePath":"/","RelativePath":"admin/manage-employees#[.{fingerprint}]?.html","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"5ipweew5fc","Integrity":"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\admin\\manage-employees.html","FileLength":0,"LastWriteTime":"2025-12-14T07:02:31+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\admin\\reports.html","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\","BasePath":"/","RelativePath":"admin/reports#[.{fingerprint}]?.html","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"5ipweew5fc","Integrity":"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\admin\\reports.html","FileLength":0,"LastWriteTime":"2025-12-14T07:02:31+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\","BasePath":"/","RelativePath":"employee/apply-leave#[.{fingerprint}]?.html","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"otsy6u2zam","Integrity":"lFtLGFawm7yNjZNRwWz1VY4lwXP/J4tyUTlEGLorw30=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\employee\\apply-leave.html","FileLength":4190,"LastWriteTime":"2025-12-14T07:06:26+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\","BasePath":"/","RelativePath":"employee/leave-status#[.{fingerprint}]?.html","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"r2n2he461v","Integrity":"U0oZ9LjFbqdNmkLEPH88O76K9eHntcyuiRGB3Wcjlds=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\employee\\leave-status.html","FileLength":4278,"LastWriteTime":"2025-12-14T07:06:18+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\","BasePath":"/","RelativePath":"manager/approve-reject#[.{fingerprint}]?.html","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"w8kvexqufe","Integrity":"wHV5pSKy8QeceIw8pqwgcXAnkqMKFrth6K2UaCigt1I=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\manager\\approve-reject.html","FileLength":5552,"LastWriteTime":"2025-12-14T07:02:31+00:00"},{"Identity":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html","SourceId":"Employee-leave-management-system","SourceType":"Discovered","ContentRoot":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\","BasePath":"/","RelativePath":"manager/team-summary#[.{fingerprint}]?.html","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"q3t6nk7rrp","Integrity":"KrBfoH8K746s1YNfmArUD15ZR/fx041X8uLppqlGMTI=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\manager\\team-summary.html","FileLength":4257,"LastWriteTime":"2025-12-14T07:02:31+00:00"}],"Endpoints":[{"Route":"admin/manage-employees.5ipweew5fc.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\8rel002q3o-{0}-5ipweew5fc-5ipweew5fc.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"1.000000000000"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"ETag","Value":"W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"5ipweew5fc"},{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="},{"Name":"label","Value":"admin/manage-employees.html"}]},{"Route":"admin/manage-employees.5ipweew5fc.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:02:31 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"5ipweew5fc"},{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="},{"Name":"label","Value":"admin/manage-employees.html"}]},{"Route":"admin/manage-employees.5ipweew5fc.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\8rel002q3o-{0}-5ipweew5fc-5ipweew5fc.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"5ipweew5fc"},{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="},{"Name":"label","Value":"admin/manage-employees.html.gz"}]},{"Route":"admin/manage-employees.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\8rel002q3o-{0}-5ipweew5fc-5ipweew5fc.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"1.000000000000"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"ETag","Value":"W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="}]},{"Route":"admin/manage-employees.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:02:31 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="}]},{"Route":"admin/manage-employees.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\8rel002q3o-{0}-5ipweew5fc-5ipweew5fc.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="}]},{"Route":"admin/reports.5ipweew5fc.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\9rfq0cx61d-{0}-5ipweew5fc-5ipweew5fc.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"1.000000000000"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"ETag","Value":"W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"5ipweew5fc"},{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="},{"Name":"label","Value":"admin/reports.html"}]},{"Route":"admin/reports.5ipweew5fc.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\admin\\reports.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:02:31 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"5ipweew5fc"},{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="},{"Name":"label","Value":"admin/reports.html"}]},{"Route":"admin/reports.5ipweew5fc.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\9rfq0cx61d-{0}-5ipweew5fc-5ipweew5fc.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"5ipweew5fc"},{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="},{"Name":"label","Value":"admin/reports.html.gz"}]},{"Route":"admin/reports.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\9rfq0cx61d-{0}-5ipweew5fc-5ipweew5fc.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"1.000000000000"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"ETag","Value":"W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="}]},{"Route":"admin/reports.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\admin\\reports.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:02:31 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="}]},{"Route":"admin/reports.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\9rfq0cx61d-{0}-5ipweew5fc-5ipweew5fc.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="}]},{"Route":"employee/apply-leave.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\kvh6ohz3fj-{0}-otsy6u2zam-otsy6u2zam.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000721500722"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1385"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"e3WFUPRIiP3ZoJe1sHFovSMcg4SyTyw7PPQLzzk28fA=\""},{"Name":"ETag","Value":"W/\"lFtLGFawm7yNjZNRwWz1VY4lwXP/J4tyUTlEGLorw30=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-lFtLGFawm7yNjZNRwWz1VY4lwXP/J4tyUTlEGLorw30="}]},{"Route":"employee/apply-leave.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4190"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"lFtLGFawm7yNjZNRwWz1VY4lwXP/J4tyUTlEGLorw30=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:06:26 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-lFtLGFawm7yNjZNRwWz1VY4lwXP/J4tyUTlEGLorw30="}]},{"Route":"employee/apply-leave.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\kvh6ohz3fj-{0}-otsy6u2zam-otsy6u2zam.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1385"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"e3WFUPRIiP3ZoJe1sHFovSMcg4SyTyw7PPQLzzk28fA=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-e3WFUPRIiP3ZoJe1sHFovSMcg4SyTyw7PPQLzzk28fA="}]},{"Route":"employee/apply-leave.otsy6u2zam.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\kvh6ohz3fj-{0}-otsy6u2zam-otsy6u2zam.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000721500722"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1385"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"e3WFUPRIiP3ZoJe1sHFovSMcg4SyTyw7PPQLzzk28fA=\""},{"Name":"ETag","Value":"W/\"lFtLGFawm7yNjZNRwWz1VY4lwXP/J4tyUTlEGLorw30=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"otsy6u2zam"},{"Name":"integrity","Value":"sha256-lFtLGFawm7yNjZNRwWz1VY4lwXP/J4tyUTlEGLorw30="},{"Name":"label","Value":"employee/apply-leave.html"}]},{"Route":"employee/apply-leave.otsy6u2zam.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4190"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"lFtLGFawm7yNjZNRwWz1VY4lwXP/J4tyUTlEGLorw30=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:06:26 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"otsy6u2zam"},{"Name":"integrity","Value":"sha256-lFtLGFawm7yNjZNRwWz1VY4lwXP/J4tyUTlEGLorw30="},{"Name":"label","Value":"employee/apply-leave.html"}]},{"Route":"employee/apply-leave.otsy6u2zam.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\kvh6ohz3fj-{0}-otsy6u2zam-otsy6u2zam.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1385"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"e3WFUPRIiP3ZoJe1sHFovSMcg4SyTyw7PPQLzzk28fA=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"otsy6u2zam"},{"Name":"integrity","Value":"sha256-e3WFUPRIiP3ZoJe1sHFovSMcg4SyTyw7PPQLzzk28fA="},{"Name":"label","Value":"employee/apply-leave.html.gz"}]},{"Route":"employee/leave-status.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\tavm4mceku-{0}-r2n2he461v-r2n2he461v.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000683526999"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1462"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"Vf/LGwRyTPl6JtOxfZCR1R9pMdMR2h5Hnox8ypmLW24=\""},{"Name":"ETag","Value":"W/\"U0oZ9LjFbqdNmkLEPH88O76K9eHntcyuiRGB3Wcjlds=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-U0oZ9LjFbqdNmkLEPH88O76K9eHntcyuiRGB3Wcjlds="}]},{"Route":"employee/leave-status.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4278"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"U0oZ9LjFbqdNmkLEPH88O76K9eHntcyuiRGB3Wcjlds=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:06:18 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-U0oZ9LjFbqdNmkLEPH88O76K9eHntcyuiRGB3Wcjlds="}]},{"Route":"employee/leave-status.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\tavm4mceku-{0}-r2n2he461v-r2n2he461v.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1462"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"Vf/LGwRyTPl6JtOxfZCR1R9pMdMR2h5Hnox8ypmLW24=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-Vf/LGwRyTPl6JtOxfZCR1R9pMdMR2h5Hnox8ypmLW24="}]},{"Route":"employee/leave-status.r2n2he461v.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\tavm4mceku-{0}-r2n2he461v-r2n2he461v.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000683526999"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1462"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"Vf/LGwRyTPl6JtOxfZCR1R9pMdMR2h5Hnox8ypmLW24=\""},{"Name":"ETag","Value":"W/\"U0oZ9LjFbqdNmkLEPH88O76K9eHntcyuiRGB3Wcjlds=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"r2n2he461v"},{"Name":"integrity","Value":"sha256-U0oZ9LjFbqdNmkLEPH88O76K9eHntcyuiRGB3Wcjlds="},{"Name":"label","Value":"employee/leave-status.html"}]},{"Route":"employee/leave-status.r2n2he461v.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4278"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"U0oZ9LjFbqdNmkLEPH88O76K9eHntcyuiRGB3Wcjlds=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:06:18 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"r2n2he461v"},{"Name":"integrity","Value":"sha256-U0oZ9LjFbqdNmkLEPH88O76K9eHntcyuiRGB3Wcjlds="},{"Name":"label","Value":"employee/leave-status.html"}]},{"Route":"employee/leave-status.r2n2he461v.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\tavm4mceku-{0}-r2n2he461v-r2n2he461v.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1462"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"Vf/LGwRyTPl6JtOxfZCR1R9pMdMR2h5Hnox8ypmLW24=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"r2n2he461v"},{"Name":"integrity","Value":"sha256-Vf/LGwRyTPl6JtOxfZCR1R9pMdMR2h5Hnox8ypmLW24="},{"Name":"label","Value":"employee/leave-status.html.gz"}]},{"Route":"manager/approve-reject.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\u7fzhgji9r-{0}-w8kvexqufe-w8kvexqufe.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000724637681"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1379"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"AQZ8EOBjItqUUXAqUCvfqGJ25LQk+gHK/yPVqsOZyoc=\""},{"Name":"ETag","Value":"W/\"wHV5pSKy8QeceIw8pqwgcXAnkqMKFrth6K2UaCigt1I=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-wHV5pSKy8QeceIw8pqwgcXAnkqMKFrth6K2UaCigt1I="}]},{"Route":"manager/approve-reject.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5552"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"wHV5pSKy8QeceIw8pqwgcXAnkqMKFrth6K2UaCigt1I=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:02:31 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-wHV5pSKy8QeceIw8pqwgcXAnkqMKFrth6K2UaCigt1I="}]},{"Route":"manager/approve-reject.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\u7fzhgji9r-{0}-w8kvexqufe-w8kvexqufe.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1379"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"AQZ8EOBjItqUUXAqUCvfqGJ25LQk+gHK/yPVqsOZyoc=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-AQZ8EOBjItqUUXAqUCvfqGJ25LQk+gHK/yPVqsOZyoc="}]},{"Route":"manager/approve-reject.w8kvexqufe.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\u7fzhgji9r-{0}-w8kvexqufe-w8kvexqufe.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000724637681"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1379"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"AQZ8EOBjItqUUXAqUCvfqGJ25LQk+gHK/yPVqsOZyoc=\""},{"Name":"ETag","Value":"W/\"wHV5pSKy8QeceIw8pqwgcXAnkqMKFrth6K2UaCigt1I=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"w8kvexqufe"},{"Name":"integrity","Value":"sha256-wHV5pSKy8QeceIw8pqwgcXAnkqMKFrth6K2UaCigt1I="},{"Name":"label","Value":"manager/approve-reject.html"}]},{"Route":"manager/approve-reject.w8kvexqufe.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5552"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"wHV5pSKy8QeceIw8pqwgcXAnkqMKFrth6K2UaCigt1I=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:02:31 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"w8kvexqufe"},{"Name":"integrity","Value":"sha256-wHV5pSKy8QeceIw8pqwgcXAnkqMKFrth6K2UaCigt1I="},{"Name":"label","Value":"manager/approve-reject.html"}]},{"Route":"manager/approve-reject.w8kvexqufe.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\u7fzhgji9r-{0}-w8kvexqufe-w8kvexqufe.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1379"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"AQZ8EOBjItqUUXAqUCvfqGJ25LQk+gHK/yPVqsOZyoc=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"w8kvexqufe"},{"Name":"integrity","Value":"sha256-AQZ8EOBjItqUUXAqUCvfqGJ25LQk+gHK/yPVqsOZyoc="},{"Name":"label","Value":"manager/approve-reject.html.gz"}]},{"Route":"manager/team-summary.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\fbquuofxsw-{0}-q3t6nk7rrp-q3t6nk7rrp.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000762776506"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1310"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"9Z+0qEX1XgesPLKMQEv6S1fw9CyNGK3LiTM/ahffjIA=\""},{"Name":"ETag","Value":"W/\"KrBfoH8K746s1YNfmArUD15ZR/fx041X8uLppqlGMTI=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-KrBfoH8K746s1YNfmArUD15ZR/fx041X8uLppqlGMTI="}]},{"Route":"manager/team-summary.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4257"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"KrBfoH8K746s1YNfmArUD15ZR/fx041X8uLppqlGMTI=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:02:31 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-KrBfoH8K746s1YNfmArUD15ZR/fx041X8uLppqlGMTI="}]},{"Route":"manager/team-summary.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\fbquuofxsw-{0}-q3t6nk7rrp-q3t6nk7rrp.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1310"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"9Z+0qEX1XgesPLKMQEv6S1fw9CyNGK3LiTM/ahffjIA=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-9Z+0qEX1XgesPLKMQEv6S1fw9CyNGK3LiTM/ahffjIA="}]},{"Route":"manager/team-summary.q3t6nk7rrp.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\fbquuofxsw-{0}-q3t6nk7rrp-q3t6nk7rrp.gz","Selectors":[{"Name":"Content-Encoding","Value":"gzip","Quality":"0.000762776506"}],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1310"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"9Z+0qEX1XgesPLKMQEv6S1fw9CyNGK3LiTM/ahffjIA=\""},{"Name":"ETag","Value":"W/\"KrBfoH8K746s1YNfmArUD15ZR/fx041X8uLppqlGMTI=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"q3t6nk7rrp"},{"Name":"integrity","Value":"sha256-KrBfoH8K746s1YNfmArUD15ZR/fx041X8uLppqlGMTI="},{"Name":"label","Value":"manager/team-summary.html"}]},{"Route":"manager/team-summary.q3t6nk7rrp.html","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4257"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"KrBfoH8K746s1YNfmArUD15ZR/fx041X8uLppqlGMTI=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:02:31 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"q3t6nk7rrp"},{"Name":"integrity","Value":"sha256-KrBfoH8K746s1YNfmArUD15ZR/fx041X8uLppqlGMTI="},{"Name":"label","Value":"manager/team-summary.html"}]},{"Route":"manager/team-summary.q3t6nk7rrp.html.gz","AssetFile":"C:\\Users\\NBosc\\OneDrive\\Desktop\\School\\Year 3\\PROG3000\\Project Assignmnet\\repo\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\fbquuofxsw-{0}-q3t6nk7rrp-q3t6nk7rrp.gz","Selectors":[],"ResponseHeaders":[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Encoding","Value":"gzip"},{"Name":"Content-Length","Value":"1310"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\"9Z+0qEX1XgesPLKMQEv6S1fw9CyNGK3LiTM/ahffjIA=\""},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 07:31:09 GMT"},{"Name":"Vary","Value":"Accept-Encoding"}],"EndpointProperties":[{"Name":"fingerprint","Value":"q3t6nk7rrp"},{"Name":"integrity","Value":"sha256-9Z+0qEX1XgesPLKMQEv6S1fw9CyNGK3LiTM/ahffjIA="},{"Name":"label","Value":"manager/team-summary.html.gz"}]}]}
+{
+  "Version": 1,
+  "Hash": "JfMpNhHilaq7SIAVYrlLv5+wFAb/m2uK/XRDaE5lJH0=",
+  "Source": "Employee-leave-management-system",
+  "BasePath": "_content/Employee-leave-management-system",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Employee-leave-management-system\\wwwroot",
+      "Source": "Employee-leave-management-system",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\3mfcpermrq-uwqf984jp6.gz",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "manager/team-summary#[.{fingerprint=uwqf984jp6}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qzzruxm936",
+      "Integrity": "Cm/1PzUlr6WvNfbklusrIeGXLT4dtp4qVuNp3SnYdeI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\c0c55xnxsx-fkvllwc8wh.gz",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "employee/apply-leave#[.{fingerprint=fkvllwc8wh}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xt5ljajblp",
+      "Integrity": "O6QbCL60APyE4nI74ataHCqUc9n5RylNNLZIb0VTYEc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\e8rtov2c2n-xlap5p3won.gz",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "manager/approve-reject#[.{fingerprint=xlap5p3won}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4r719ecbsi",
+      "Integrity": "gAEeWmkvRHOR6+lEjeDf/WhlAkN3qRremVeF/iJo/v8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\h2i7gcnxb8-5ipweew5fc.gz",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "admin/reports#[.{fingerprint=5ipweew5fc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\reports.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\reports.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\vyigf57fox-r32pij57db.gz",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "employee/leave-status#[.{fingerprint=r32pij57db}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "h3fzqqrncz",
+      "Integrity": "01ZhhWLr07S2pxgI0blHaBfuLyqJtisRjWGU0sweJNM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\xitnm2vju3-5ipweew5fc.gz",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "admin/manage-employees#[.{fingerprint=5ipweew5fc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\y7eho4ij7o-qyetkkm6xx.gz",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "index#[.{fingerprint=qyetkkm6xx}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0dm7gnspjo",
+      "Integrity": "DMfeW9LY5nme7ZA/Of5xJzOOJFFeUOUr0OcfBcHiuoI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "admin/manage-employees#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\manage-employees.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\reports.html",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "admin/reports#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\reports.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "employee/apply-leave#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fkvllwc8wh",
+      "Integrity": "Dwg5jQsT5WEai/TequAJZc59EjPJmkL2iguYSfsaMk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\employee\\apply-leave.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "employee/leave-status#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r32pij57db",
+      "Integrity": "GZvuDPewvGmjjAXoDa/hPAATSbRyZQeeDbYD9k0C/qU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\employee\\leave-status.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\index.html",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qyetkkm6xx",
+      "Integrity": "/soPdCJhUsf1NScdxlLRAlps1JwrgCvEjrM7C66q9FM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "manager/approve-reject#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xlap5p3won",
+      "Integrity": "9VqVCUn7+TUhZcOLUBTapFTGA6jWVgUrFic8lV2eLFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manager\\approve-reject.html"
+    },
+    {
+      "Identity": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html",
+      "SourceId": "Employee-leave-management-system",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\",
+      "BasePath": "_content/Employee-leave-management-system",
+      "RelativePath": "manager/team-summary#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uwqf984jp6",
+      "Integrity": "/v5S68yVEQkOAMPbp/w90Mwck6tgdaU0nd2QbrZfnNg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manager\\team-summary.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "admin/manage-employees.5ipweew5fc.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\xitnm2vju3-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/manage-employees.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/manage-employees.5ipweew5fc.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/manage-employees.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/manage-employees.5ipweew5fc.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\xitnm2vju3-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/manage-employees.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/manage-employees.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\xitnm2vju3-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/manage-employees.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\manage-employees.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/manage-employees.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\xitnm2vju3-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/reports.5ipweew5fc.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\h2i7gcnxb8-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/reports.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/reports.5ipweew5fc.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\reports.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/reports.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/reports.5ipweew5fc.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\h2i7gcnxb8-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/reports.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/reports.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\h2i7gcnxb8-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/reports.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\admin\\reports.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "admin/reports.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\h2i7gcnxb8-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "employee/apply-leave.fkvllwc8wh.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\c0c55xnxsx-fkvllwc8wh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000716332378"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O6QbCL60APyE4nI74ataHCqUc9n5RylNNLZIb0VTYEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Dwg5jQsT5WEai/TequAJZc59EjPJmkL2iguYSfsaMk4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fkvllwc8wh"
+        },
+        {
+          "Name": "label",
+          "Value": "employee/apply-leave.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dwg5jQsT5WEai/TequAJZc59EjPJmkL2iguYSfsaMk4="
+        }
+      ]
+    },
+    {
+      "Route": "employee/apply-leave.fkvllwc8wh.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dwg5jQsT5WEai/TequAJZc59EjPJmkL2iguYSfsaMk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fkvllwc8wh"
+        },
+        {
+          "Name": "label",
+          "Value": "employee/apply-leave.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dwg5jQsT5WEai/TequAJZc59EjPJmkL2iguYSfsaMk4="
+        }
+      ]
+    },
+    {
+      "Route": "employee/apply-leave.fkvllwc8wh.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\c0c55xnxsx-fkvllwc8wh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O6QbCL60APyE4nI74ataHCqUc9n5RylNNLZIb0VTYEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fkvllwc8wh"
+        },
+        {
+          "Name": "label",
+          "Value": "employee/apply-leave.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O6QbCL60APyE4nI74ataHCqUc9n5RylNNLZIb0VTYEc="
+        }
+      ]
+    },
+    {
+      "Route": "employee/apply-leave.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\c0c55xnxsx-fkvllwc8wh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000716332378"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O6QbCL60APyE4nI74ataHCqUc9n5RylNNLZIb0VTYEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Dwg5jQsT5WEai/TequAJZc59EjPJmkL2iguYSfsaMk4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dwg5jQsT5WEai/TequAJZc59EjPJmkL2iguYSfsaMk4="
+        }
+      ]
+    },
+    {
+      "Route": "employee/apply-leave.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\apply-leave.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dwg5jQsT5WEai/TequAJZc59EjPJmkL2iguYSfsaMk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dwg5jQsT5WEai/TequAJZc59EjPJmkL2iguYSfsaMk4="
+        }
+      ]
+    },
+    {
+      "Route": "employee/apply-leave.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\c0c55xnxsx-fkvllwc8wh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O6QbCL60APyE4nI74ataHCqUc9n5RylNNLZIb0VTYEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O6QbCL60APyE4nI74ataHCqUc9n5RylNNLZIb0VTYEc="
+        }
+      ]
+    },
+    {
+      "Route": "employee/leave-status.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\vyigf57fox-r32pij57db.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000677966102"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1474"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01ZhhWLr07S2pxgI0blHaBfuLyqJtisRjWGU0sweJNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GZvuDPewvGmjjAXoDa/hPAATSbRyZQeeDbYD9k0C/qU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GZvuDPewvGmjjAXoDa/hPAATSbRyZQeeDbYD9k0C/qU="
+        }
+      ]
+    },
+    {
+      "Route": "employee/leave-status.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GZvuDPewvGmjjAXoDa/hPAATSbRyZQeeDbYD9k0C/qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GZvuDPewvGmjjAXoDa/hPAATSbRyZQeeDbYD9k0C/qU="
+        }
+      ]
+    },
+    {
+      "Route": "employee/leave-status.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\vyigf57fox-r32pij57db.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01ZhhWLr07S2pxgI0blHaBfuLyqJtisRjWGU0sweJNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-01ZhhWLr07S2pxgI0blHaBfuLyqJtisRjWGU0sweJNM="
+        }
+      ]
+    },
+    {
+      "Route": "employee/leave-status.r32pij57db.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\vyigf57fox-r32pij57db.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000677966102"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1474"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01ZhhWLr07S2pxgI0blHaBfuLyqJtisRjWGU0sweJNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GZvuDPewvGmjjAXoDa/hPAATSbRyZQeeDbYD9k0C/qU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r32pij57db"
+        },
+        {
+          "Name": "label",
+          "Value": "employee/leave-status.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GZvuDPewvGmjjAXoDa/hPAATSbRyZQeeDbYD9k0C/qU="
+        }
+      ]
+    },
+    {
+      "Route": "employee/leave-status.r32pij57db.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\employee\\leave-status.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GZvuDPewvGmjjAXoDa/hPAATSbRyZQeeDbYD9k0C/qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r32pij57db"
+        },
+        {
+          "Name": "label",
+          "Value": "employee/leave-status.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GZvuDPewvGmjjAXoDa/hPAATSbRyZQeeDbYD9k0C/qU="
+        }
+      ]
+    },
+    {
+      "Route": "employee/leave-status.r32pij57db.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\vyigf57fox-r32pij57db.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1474"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"01ZhhWLr07S2pxgI0blHaBfuLyqJtisRjWGU0sweJNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 17:58:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r32pij57db"
+        },
+        {
+          "Name": "label",
+          "Value": "employee/leave-status.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-01ZhhWLr07S2pxgI0blHaBfuLyqJtisRjWGU0sweJNM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\y7eho4ij7o-qyetkkm6xx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003412969283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMfeW9LY5nme7ZA/Of5xJzOOJFFeUOUr0OcfBcHiuoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:31:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/soPdCJhUsf1NScdxlLRAlps1JwrgCvEjrM7C66q9FM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/soPdCJhUsf1NScdxlLRAlps1JwrgCvEjrM7C66q9FM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/soPdCJhUsf1NScdxlLRAlps1JwrgCvEjrM7C66q9FM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:31:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/soPdCJhUsf1NScdxlLRAlps1JwrgCvEjrM7C66q9FM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\y7eho4ij7o-qyetkkm6xx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMfeW9LY5nme7ZA/Of5xJzOOJFFeUOUr0OcfBcHiuoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:31:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DMfeW9LY5nme7ZA/Of5xJzOOJFFeUOUr0OcfBcHiuoI="
+        }
+      ]
+    },
+    {
+      "Route": "index.qyetkkm6xx.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\y7eho4ij7o-qyetkkm6xx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003412969283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMfeW9LY5nme7ZA/Of5xJzOOJFFeUOUr0OcfBcHiuoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:31:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/soPdCJhUsf1NScdxlLRAlps1JwrgCvEjrM7C66q9FM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qyetkkm6xx"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/soPdCJhUsf1NScdxlLRAlps1JwrgCvEjrM7C66q9FM="
+        }
+      ]
+    },
+    {
+      "Route": "index.qyetkkm6xx.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/soPdCJhUsf1NScdxlLRAlps1JwrgCvEjrM7C66q9FM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:31:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qyetkkm6xx"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/soPdCJhUsf1NScdxlLRAlps1JwrgCvEjrM7C66q9FM="
+        }
+      ]
+    },
+    {
+      "Route": "index.qyetkkm6xx.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\y7eho4ij7o-qyetkkm6xx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DMfeW9LY5nme7ZA/Of5xJzOOJFFeUOUr0OcfBcHiuoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:31:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qyetkkm6xx"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DMfeW9LY5nme7ZA/Of5xJzOOJFFeUOUr0OcfBcHiuoI="
+        }
+      ]
+    },
+    {
+      "Route": "manager/approve-reject.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\e8rtov2c2n-xlap5p3won.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000807754443"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1237"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gAEeWmkvRHOR6+lEjeDf/WhlAkN3qRremVeF/iJo/v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9VqVCUn7+TUhZcOLUBTapFTGA6jWVgUrFic8lV2eLFo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9VqVCUn7+TUhZcOLUBTapFTGA6jWVgUrFic8lV2eLFo="
+        }
+      ]
+    },
+    {
+      "Route": "manager/approve-reject.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9VqVCUn7+TUhZcOLUBTapFTGA6jWVgUrFic8lV2eLFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9VqVCUn7+TUhZcOLUBTapFTGA6jWVgUrFic8lV2eLFo="
+        }
+      ]
+    },
+    {
+      "Route": "manager/approve-reject.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\e8rtov2c2n-xlap5p3won.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1237"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gAEeWmkvRHOR6+lEjeDf/WhlAkN3qRremVeF/iJo/v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gAEeWmkvRHOR6+lEjeDf/WhlAkN3qRremVeF/iJo/v8="
+        }
+      ]
+    },
+    {
+      "Route": "manager/approve-reject.xlap5p3won.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\e8rtov2c2n-xlap5p3won.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000807754443"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1237"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gAEeWmkvRHOR6+lEjeDf/WhlAkN3qRremVeF/iJo/v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9VqVCUn7+TUhZcOLUBTapFTGA6jWVgUrFic8lV2eLFo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xlap5p3won"
+        },
+        {
+          "Name": "label",
+          "Value": "manager/approve-reject.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9VqVCUn7+TUhZcOLUBTapFTGA6jWVgUrFic8lV2eLFo="
+        }
+      ]
+    },
+    {
+      "Route": "manager/approve-reject.xlap5p3won.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\approve-reject.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9VqVCUn7+TUhZcOLUBTapFTGA6jWVgUrFic8lV2eLFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xlap5p3won"
+        },
+        {
+          "Name": "label",
+          "Value": "manager/approve-reject.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9VqVCUn7+TUhZcOLUBTapFTGA6jWVgUrFic8lV2eLFo="
+        }
+      ]
+    },
+    {
+      "Route": "manager/approve-reject.xlap5p3won.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\e8rtov2c2n-xlap5p3won.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1237"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gAEeWmkvRHOR6+lEjeDf/WhlAkN3qRremVeF/iJo/v8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:29:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xlap5p3won"
+        },
+        {
+          "Name": "label",
+          "Value": "manager/approve-reject.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gAEeWmkvRHOR6+lEjeDf/WhlAkN3qRremVeF/iJo/v8="
+        }
+      ]
+    },
+    {
+      "Route": "manager/team-summary.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\3mfcpermrq-uwqf984jp6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000827129859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1208"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cm/1PzUlr6WvNfbklusrIeGXLT4dtp4qVuNp3SnYdeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/v5S68yVEQkOAMPbp/w90Mwck6tgdaU0nd2QbrZfnNg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/v5S68yVEQkOAMPbp/w90Mwck6tgdaU0nd2QbrZfnNg="
+        }
+      ]
+    },
+    {
+      "Route": "manager/team-summary.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/v5S68yVEQkOAMPbp/w90Mwck6tgdaU0nd2QbrZfnNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/v5S68yVEQkOAMPbp/w90Mwck6tgdaU0nd2QbrZfnNg="
+        }
+      ]
+    },
+    {
+      "Route": "manager/team-summary.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\3mfcpermrq-uwqf984jp6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cm/1PzUlr6WvNfbklusrIeGXLT4dtp4qVuNp3SnYdeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cm/1PzUlr6WvNfbklusrIeGXLT4dtp4qVuNp3SnYdeI="
+        }
+      ]
+    },
+    {
+      "Route": "manager/team-summary.uwqf984jp6.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\3mfcpermrq-uwqf984jp6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000827129859"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1208"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cm/1PzUlr6WvNfbklusrIeGXLT4dtp4qVuNp3SnYdeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/v5S68yVEQkOAMPbp/w90Mwck6tgdaU0nd2QbrZfnNg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uwqf984jp6"
+        },
+        {
+          "Name": "label",
+          "Value": "manager/team-summary.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/v5S68yVEQkOAMPbp/w90Mwck6tgdaU0nd2QbrZfnNg="
+        }
+      ]
+    },
+    {
+      "Route": "manager/team-summary.uwqf984jp6.html",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\wwwroot\\manager\\team-summary.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/v5S68yVEQkOAMPbp/w90Mwck6tgdaU0nd2QbrZfnNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uwqf984jp6"
+        },
+        {
+          "Name": "label",
+          "Value": "manager/team-summary.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/v5S68yVEQkOAMPbp/w90Mwck6tgdaU0nd2QbrZfnNg="
+        }
+      ]
+    },
+    {
+      "Route": "manager/team-summary.uwqf984jp6.html.gz",
+      "AssetFile": "C:\\PROG30000\\Assignments\\Group Project\\Employee-leave-management-system\\Employee-leave-management-system\\obj\\Debug\\net9.0\\compressed\\3mfcpermrq-uwqf984jp6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cm/1PzUlr6WvNfbklusrIeGXLT4dtp4qVuNp3SnYdeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Dec 2025 18:45:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uwqf984jp6"
+        },
+        {
+          "Name": "label",
+          "Value": "manager/team-summary.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cm/1PzUlr6WvNfbklusrIeGXLT4dtp4qVuNp3SnYdeI="
+        }
+      ]
+    }
+  ]
+}

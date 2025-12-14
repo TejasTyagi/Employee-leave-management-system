@@ -1,4 +1,4 @@
-// Author: Tejas Tyagi
+// Tejas Tyagi
 // Description: Web API controller for manager operations. Uses endpoints for pending requests, approval/rejection, and viewing team leave summary.
 
 using Microsoft.AspNetCore.Mvc;

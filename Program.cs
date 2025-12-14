@@ -13,10 +13,12 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseRouting();
+
 app.UseDefaultFiles();
-app.UseStaticFiles();
 
-
+app.UseStaticFiles();   
 app.MapControllers();
 
 using (var db = new Database())
