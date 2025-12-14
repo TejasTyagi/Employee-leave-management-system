@@ -1,4 +1,5 @@
 //noahb
+using Employee_leave_management_system.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
@@ -12,7 +13,15 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 
 app.MapControllers();
+
+using (var db = new Database())
+{
+    db.Database.EnsureCreated();
+}
 
 app.Run();
