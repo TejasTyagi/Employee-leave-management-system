@@ -14,7 +14,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseRouting();
+app.UseRouting(); // Enable routing middleware - Tejas
 
 app.UseDefaultFiles();
 
