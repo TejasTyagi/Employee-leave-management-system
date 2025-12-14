@@ -1,23 +1,67 @@
 <!-- Tejas Tyagi -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
     <title>Employee Leave Management System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
-    <h1>Employee Leave Management System</h1>
 
-    <h3>Employee</h3>
-    <a href="/employee/apply-leave.html">Apply Leave</a><br>
-    <a href="/employee/leave-status.html">View Leave Status</a>
+<body class="bg-light">
 
-    <h3>Manager</h3>
-    <a href="/manager/approve-reject.html">Approve / Reject Leaves</a><br>
-    <a href="/manager/team-summary.html">Team Leave Summary</a>
+<nav class="navbar navbar-dark bg-dark mb-4">
+    <div class="container-fluid">
+        <span class="navbar-brand mb-0 h1">
+            Employee Leave Management System
+        </span>
+    </div>
+</nav>
 
-    <h3>Admin</h3>
-    <a href="/admin/manager-employees.html">Manage Employees</a><br>
-    <a href="/admin/reports.html">Reports</a>
+<div class="container">
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <h4 class="card-title">Employee</h4>
+            <p class="text-muted">Apply for leave and track leave status</p>
+
+            <a href="/employee/apply-leave.html" target="_blank" class="btn btn-primary me-2">
+                Apply Leave
+            </a>
+            <a href="/employee/leave-status.html" target="_blank" class="btn btn-outline-primary">
+                View Leave Status
+            </a>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <h4 class="card-title">Manager</h4>
+            <p class="text-muted">Approve or reject leave requests and view summaries</p>
+
+            <a href="/manager/approve-reject.html" target="_blank" class="btn btn-success me-2">
+                Approve / Reject Leaves
+            </a>
+            <a href="/manager/team-summary.html" target="_blank" class="btn btn-outline-success">
+                Team Leave Summary
+            </a>
+        </div>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <h4 class="card-title">Admin</h4>
+            <p class="text-muted">Administrative and reporting features</p>
+
+            <a href="/admin/manager-employees.html" target="_blank" class="btn btn-secondary me-2">
+                Manage Employees
+            </a>
+            <a href="/admin/reports.html" target="_blank" class="btn btn-outline-secondary">
+                Reports
+            </a>
+        </div>
+    </div>
+
+</div>
 
 </body>
 </html>
