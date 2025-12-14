@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zrbn8hhh56</Fingerprint>
-      <Integrity>oSiOgNxmyfLUqWUWmDgmpzXJDaIHxF/kMTU1JCDE7cY=</Integrity>
+      <Fingerprint>t564eh7qkf</Fingerprint>
+      <Integrity>MZra2oLfq5ADPsoZsUx+79tW5btjc4vSb7jy21kG0D4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\manager\team-summary.html'))</OriginalItemSpec>

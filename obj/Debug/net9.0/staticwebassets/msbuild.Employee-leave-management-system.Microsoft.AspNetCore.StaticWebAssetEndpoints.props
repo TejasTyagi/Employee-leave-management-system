@@ -75,14 +75,14 @@
     <StaticWebAssetEndpoint Include="_content/Employee-leave-management-system/manager/team-summary.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\manager\team-summary.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oSiOgNxmyfLUqWUWmDgmpzXJDaIHxF/kMTU1JCDE7cY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3948"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022oSiOgNxmyfLUqWUWmDgmpzXJDaIHxF/kMTU1JCDE7cY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 18:53:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MZra2oLfq5ADPsoZsUx\u002B79tW5btjc4vSb7jy21kG0D4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4545"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022MZra2oLfq5ADPsoZsUx\u002B79tW5btjc4vSb7jy21kG0D4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 19:48:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Employee-leave-management-system/manager/team-summary.zrbn8hhh56.html">
+    <StaticWebAssetEndpoint Include="_content/Employee-leave-management-system/manager/team-summary.t564eh7qkf.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\manager\team-summary.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zrbn8hhh56"},{"Name":"integrity","Value":"sha256-oSiOgNxmyfLUqWUWmDgmpzXJDaIHxF/kMTU1JCDE7cY="},{"Name":"label","Value":"_content/Employee-leave-management-system/manager/team-summary.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3948"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022oSiOgNxmyfLUqWUWmDgmpzXJDaIHxF/kMTU1JCDE7cY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 18:53:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t564eh7qkf"},{"Name":"integrity","Value":"sha256-MZra2oLfq5ADPsoZsUx\u002B79tW5btjc4vSb7jy21kG0D4="},{"Name":"label","Value":"_content/Employee-leave-management-system/manager/team-summary.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4545"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022MZra2oLfq5ADPsoZsUx\u002B79tW5btjc4vSb7jy21kG0D4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Dec 2025 19:48:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

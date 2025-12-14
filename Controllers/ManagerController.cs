@@ -1,5 +1,7 @@
 // Tejas Tyagi
-// Description: Web API controller for manager operations. Uses endpoints for pending requests, approval/rejection, and viewing team leave summary.
+// Description: Web API controller for manager operations.
+// Handles pending requests, approval/rejection, team leave summary,
+// and retrieval of manager ids used in the system.
 
 using Microsoft.AspNetCore.Mvc;
 using Employee_leave_management_system.Services;
@@ -13,7 +15,6 @@ namespace Employee_leave_management_system.Controllers
         private ApprovalService _approvalService = new ApprovalService();
 
         // GET: api/manager/pendingrequests
-        // Returns all leave requests with Status = "Pending"
         [HttpGet("pendingrequests")]
         public IActionResult GetPendingRequests()
         {
@@ -22,42 +23,44 @@ namespace Employee_leave_management_system.Controllers
         }
 
         // PUT: api/manager/approve/5
-        // Approves a leave request by id
         [HttpPut("approve/{id}")]
         public IActionResult ApproveLeave(int id)
         {
             var result = _approvalService.ApproveRequest(id);
 
             if (result == null)
-            {
                 return NotFound("Leave request not found.");
-            }
 
             return Ok(result);
         }
 
         // PUT: api/manager/reject/5
-        // Rejects a leave request by id
         [HttpPut("reject/{id}")]
         public IActionResult RejectLeave(int id)
         {
             var result = _approvalService.RejectRequest(id);
 
             if (result == null)
-            {
                 return NotFound("Leave request not found.");
-            }
 
             return Ok(result);
         }
 
         // GET: api/manager/teamleaves/3
-        // Returns all leave requests for employees under a manager
         [HttpGet("teamleaves/{managerId}")]
         public IActionResult GetTeamLeaves(int managerId)
         {
             var leaves = _approvalService.GetTeamLeaves(managerId);
             return Ok(leaves);
+        }
+
+        // GET: api/manager/managerids
+        // Returns all distinct manager IDs used by employees
+        [HttpGet("managerids")]
+        public IActionResult GetManagerIds()
+        {
+            var ids = _approvalService.GetManagerIds();
+            return Ok(ids);
         }
     }
 }
