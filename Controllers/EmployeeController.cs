@@ -60,6 +60,14 @@ namespace Employee_leave_management_system.Controllers
     public class EmployeeService
     {
         private Database _db = new Database();
+        public EmployeeService()
+    {
+        _db = new Database();
+    }
+    public EmployeeService(Database db)
+    {
+        _db = db;
+    }
 
         public LeaveRequest SubmitLeaveRequest(LeaveRequest request)
         {
